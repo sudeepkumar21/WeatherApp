@@ -10,7 +10,7 @@ A simple and clean **React Weather App** that shows real-time weather updates us
 
 ## 📸 Preview
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./asset/react.svg)
 
 ---
 
