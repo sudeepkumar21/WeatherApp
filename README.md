@@ -1,30 +1,30 @@
-# 🌤️ WeatherApp
+#  WeatherApp
 
 A simple and clean **React Weather App** that shows real-time weather updates using the **OpenWeatherMap API**.
 
-## 🔗 Live Demo
+##  Live Demo
 
 🚀 [Click to use the live app](https://weather-app-weld-one-94.vercel.app/)
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![App Screenshot](public/Screenshot.png)
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 Search by city name
-- 🌡️ Real-time temperature, humidity, pressure, and wind
-- 🌈 Weather condition with icons
-- 📱 Responsive mobile-friendly design
-- ⚛️ Built using **React** and **Axios**
+-  Search by city name
+-  Real-time temperature, humidity, pressure, and wind
+-  Weather condition with icons
+-  Responsive mobile-friendly design
+-  Built using **React** and **Axios**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React
 - Axios
