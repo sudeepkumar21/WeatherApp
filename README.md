@@ -4,7 +4,7 @@ A simple and clean **React Weather App** that shows real-time weather updates us
 
 ##  Live Demo
 
-🚀 [Click to use the live app](https://weather-app-weld-one-94.vercel.app/)
+ [Click to use the live app](https://weather-app-weld-one-94.vercel.app/)
 
 ---
 
@@ -33,7 +33,7 @@ A simple and clean **React Weather App** that shows real-time weather updates us
 
 ---
 
-## 📦 Installation (For Local Use)
+##  Installation (For Local Use)
 
 ```bash
 git clone https://github.com/sudeepkumar21/WeatherApp.git
